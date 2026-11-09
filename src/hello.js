@@ -1,3 +1,3 @@
 export function hello() {
-  return "TODO";
+  return "hello from platform-coding-sample";
 }
